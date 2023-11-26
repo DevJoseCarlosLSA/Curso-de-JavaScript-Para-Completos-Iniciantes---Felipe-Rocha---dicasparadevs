@@ -26,5 +26,14 @@ const indexOfFelipe = names.indexOf("Felipe");
 
 const sortedNames = names.sort();
 
+const namesIsArray = Array.isArray(names);
+
+//QUANT STRINGS
 console.log(names);
+
+//ORDENAR STRINGS
 console.log(sortedNames);
+
+console.log(indexOfFelipe);
+
+
